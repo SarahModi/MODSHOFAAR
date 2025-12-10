@@ -1,3 +1,3 @@
 # shofaar.github.io
-MODSHOFAA 
+MODSHOFAAR
 An AI Driven Online School
