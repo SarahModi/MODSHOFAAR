@@ -1,3 +1,3 @@
 # shofaar.github.io
-GENNXT 
+MODSHOFAA 
 An AI Driven Online School
